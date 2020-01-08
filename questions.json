@@ -1,0 +1,57 @@
+{
+    "questions": [
+        {
+            "question_id": "0",
+            "question": "Do you like my tutorials?",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Yes"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "No"
+                }
+            ],
+            "correct": "0"
+        },
+        {
+            "question_id": "1",
+            "question": "Which one of the following variables cannot be changed?",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "var"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "let"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "const"
+                }
+            ],
+            "correct": "2"
+        },
+        {
+            "question_id": "2",
+            "question": "Which of the following is the correct way to add an item to an array?",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "array.add(/'item/')"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "array.push(/'item/')"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "add(arry, /'item/')"
+                }
+            ],
+            "correct": "1"
+        }
+    ]
+}

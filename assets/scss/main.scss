@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background: #F3F3F3;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+
+.calc {
+    width: 380px;
+    background: #171717;
+    padding: 15px;
+
+    &__display {
+        background: #C4C4C4;
+        padding: 15px;
+    }
+
+    &__actions {
+        padding: 15px;
+    }
+}
